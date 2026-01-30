@@ -17,5 +17,4 @@ Check out my [Resume](https://drive.google.com/file/d/1wEphW-azhq5TT9uLiQkkNWgZm
 
 **Contact**  
 LinkedIn: https://www.linkedin.com/in/vp-harrish-249651275  
-GitHub: https://github.com/vpharrish101
 
