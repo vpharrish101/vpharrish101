@@ -1,7 +1,7 @@
 # VP Harrish
 
-I work on **applied machine learning** with a focus on **Deep Learning (GNN, Computer Vision stack and Transformers) and Cloud  Systems(AWS and Azure)**.  
-My interests span **research-oriented ML** (neuroimaging, bio ML) and **engineering systems** (ML pipelines, deployment).
+I work on **machine learning** with a focus on **Deep Learning (GNN, Computer Vision stack and Transformers) and Cloud  Systems(AWS and Azure)**.  
+My interests span **research-oriented ML** (neuroimaging, bio ML) and **engineering systems** (ML pipelines, deployment). (and cats :p)
 
 Check out my [Resume](https://drive.google.com/file/d/1wEphW-azhq5TT9uLiQkkNWgZm6JJX6gv/view?usp=sharing).
 ---
